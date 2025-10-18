@@ -26,7 +26,3 @@ It includes JSON/YAML files that can be imported into another Superset instance 
 - Some calculated columns, metrics, and filters are included in the exported files.  
 - You can edit or update the dashboards directly in Superset after import.  
 
-## 🔗 References
-
-- [Superset Documentation](https://superset.apache.org/docs/intro)  
-- [GitHub](https://github.com)
